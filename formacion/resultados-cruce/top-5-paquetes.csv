@@ -1,0 +1,6 @@
+﻿paquete,avisos_distintos
+org.apache.tomcat.embed:tomcat-embed-core,47
+org.springframework:spring-webmvc,18
+com.fasterxml.jackson.core:jackson-databind,15
+ch.qos.logback:logback-core,8
+org.springframework:spring-expression,8

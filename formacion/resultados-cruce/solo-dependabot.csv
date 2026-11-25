@@ -1,0 +1,7 @@
+﻿id,paquetes,ghsa,cve,manifiesto,severidad
+CVE-2016-10735,org.webjars:bootstrap,GHSA-4p24-vmcr-4gqj,CVE-2016-10735,pom.xml,medium
+CVE-2018-14040,org.webjars:bootstrap,GHSA-3wqf-4x89-9g79,CVE-2018-14040,pom.xml,medium
+CVE-2018-14042,org.webjars:bootstrap,GHSA-7mvr-5x2g-wfc8,CVE-2018-14042,pom.xml,medium
+CVE-2018-20676,org.webjars:bootstrap,GHSA-3mgp-fx93-9xv5,CVE-2018-20676,pom.xml,medium
+CVE-2018-20677,org.webjars:bootstrap,GHSA-ph58-4vrj-w6hr,CVE-2018-20677,pom.xml,medium
+CVE-2019-8331,org.webjars:bootstrap,GHSA-9v3m-8fp8-mj99,CVE-2019-8331,pom.xml,medium
