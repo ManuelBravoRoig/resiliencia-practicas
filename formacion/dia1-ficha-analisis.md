@@ -28,7 +28,7 @@ Dependencias de Maven que están declaradas en el archivo pom.xml y son necesari
 Dependencia de Maven que no esta declarada en el archivo pom.xml pero que otras librerías o dependencias que si lo están dependen de ellas.
 
 ### Lockfile
-Archivo que en un proyecto especifica las versiones de las dependencias que son necesarias.
+Archivo que en un proyecto especifica las versiones exactas de las dependencias que son necesarias, tanto las directas como las transitivas.
 
 ### SBOM
 La lista de componentes/librerias/partes que son necesarias para que funciones un sistema o aplicación.
@@ -40,10 +40,10 @@ Parecedo a CVSS, clasificar como de grave es una vulnerabilidad específica.
 Cuando un sistema queda expuesto a la posibilidad de una amenazo o peligro.
 
 ### Aviso
-Cuando un sistema detecta que existe una vulnerabilidad pero no sabe donde ni cual es.
+El sistema indica que hay una vulnerabilidad en un componente, dando el identificador y en que paquete se encuentra.
 
 ### Alerta
-Aviso del sistema de que existe una vulnerabilidad y es capaz de identificarla y localizarla.
+Una herramienta emite una alerta cuando encuentra la vulnerabilidad en un manifiesto.
 
 
 # Análisis de avisos
